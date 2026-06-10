@@ -1,6 +1,3 @@
-Ahmad jaani, bilkul chill karo! Yeh lo poora ka poora data ek hi single code block ke andar.
-
-Tumne bas upar right side par **`Copy code`** par click karna hai aur GitHub par ja kar paste kar dena hai. Saara purana aur naya data sequence mein proper alignment ke sath isme mojood hai:
 
 ```markdown
 # SOC Automation, Detection Engineering & Threat Hunting Lab
